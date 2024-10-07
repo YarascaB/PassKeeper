@@ -8,9 +8,9 @@ Desarrolla una herramienta para que los usuarios puedan almacenar y gestionar su
 |------------------------------------|---------------|
 | CASTAÑEDA CANO MARCELO GIOVANNI    | Desarrollador |
 | CHAUPIS LEGUIA PIERO POOL          | Desarrollador |
-| MARTÍNEZ LLANOS MARCO JHAIR        | Tester        |
+| MARTÍNEZ LLANOS MARCO JHAIR        | Documentador        |
 | RUBIO SANTOS ALESSANDRO            | Diseñador     |
-| YARASCA BATALLA JAIRO RONALD       | Documentador  |
+| YARASCA BATALLA JAIRO RONALD       | Tester  |
 
 
 
